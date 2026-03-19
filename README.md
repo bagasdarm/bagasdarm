@@ -6,11 +6,11 @@
   <br>
 </div>
 
-<p>I am an Informatics Engineering graduate with a strong passion for Software Quality Assurance[cite: 3]. Currently, I am working as an SQA Engineer Intern, where I handle both manual and automation testing to ensure web applications function smoothly[cite: 8, 10, 12]. I genuinely enjoy the systematic process of identifying defects, creating detailed test scenarios, and verifying fixes alongside development teams[cite: 5, 11, 14].</p>
+<p>I am an Informatics Engineering graduate with a strong passion for Software Quality Assurance. Currently, I am working as an SQA Engineer Intern, where I handle both manual and automation testing to ensure web applications function smoothly. I genuinely enjoy the systematic process of identifying defects, creating detailed test scenarios, and verifying fixes alongside development teams.</p>
 
 <p>Because my professional work involves confidential internal projects, I use this GitHub space as a personal playground to build and showcase my automation testing portfolio. Here, I explore various test scenarios using dummy websites and public APIs to continuously sharpen my technical skills.</p>
 
-<p>My main focus right now is designing efficient UI and API automation scripts, writing clean and structured documentation for test cases and bug reports, and deepening my practical knowledge of tools like Katalon Studio and Postman[cite: 11, 14, 50].</p>
+<p>My main focus right now is designing efficient UI and API automation scripts, writing clean and structured documentation for test cases and bug reports, and deepening my practical knowledge of tools like Katalon Studio and Postman.</p>
 
 <hr>
 
