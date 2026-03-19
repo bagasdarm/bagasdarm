@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/bagasdarm/bagasdarm/ee95300c14c8d497a1454138e8178b4b8df8b711/Linkedin%20Header%20SQA.jpg" alt="QA Portfolio Banner" width="100%">
   <br>
   <h1>Hi there, I am Bagas Ari Darmawan</h1>
-  <h3>Software Quality Assurance | Automation and Manual Testing Enthusiast</h3>
+  <h3>Software Quality Assurance | QA Tester / Engineer | Automation and Manual Testing Enthusiast</h3>
 </div>
 
 <br>
