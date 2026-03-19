@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/bagasdarm/bagasdarm/ee95300c14c8d497a1454138e8178b4b8df8b711/Linkedin%20Header%20SQA.jpg" alt="QA Portfolio Banner" width="100%">
   <br><br>
   <h1>Hi there, I am Bagas Ari Darmawan</h1>
-  <h3>Software Quality Assurance | QA Tester / Engineer | Automation and Manual Testing Enthusiast</h3>
+  <h3>Software Quality Assurance | QA Tester | Automation and Manual Testing Engineer</h3>
   <br>
 </div>
 
@@ -23,7 +23,25 @@
     &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman" title="Postman" />
         &nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="Postman" title="Postman" />
+    <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40"/>
+            &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/jira/0052CC" height="40"/>
+                &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/jira/0052CC" height="40"/>
+                    &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/apachejmeter/D22128" height="40"/>
+                        &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/testrail/65C179" height="40"/>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/k6/7D64FF" height="40"/>
+        <!-- &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/testrail/65C179" height="40"/> -->
+        <!-- &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/testrail/65C179" height="40"/> -->
+        <!-- &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/testrail/65C179" height="40"/> -->
+        <!-- &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/testrail/65C179" height="40"/> -->
   </p>
 
   <h4>Databases Management & Collaboration</h4>
@@ -35,14 +53,18 @@
     <img src="https://cdn.simpleicons.org/DBeaver/382923" height="40" alt="DBeaver" title="DBeaver" />
             &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/PostgreSQL/4169E1" height="40"/>
+                &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/Discord/5865F2" height="40"/>
+                    &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/Discord/5865F2" height="40"/>
   </p>
 
-  <h4>Version Control</h4>
+  <h4>Version Control & CI/CD</h4>
   <p>
     <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" title="Git" />
     &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/github/a6a6a6" height="40" alt="GitHub" title="GitHub" />
-        &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="40" alt="GitHub" title="GitHub" />
   </p>
 
