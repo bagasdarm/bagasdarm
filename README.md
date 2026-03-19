@@ -19,7 +19,7 @@
 
 <h4>Testing Tools</h4>
 <p>
-  <img src="https://cdn.simpleicons.org/katalon/86C840" height="40" alt="Katalon Studio" title="Katalon Studio" />
+  <img src="[https://cdn.simpleicons.org/katalon/86C840](https://github.com/bagasdarm/bagasdarm/blob/104927c1b303f9b3804a4ff6a3c4fc195bad02a4/Katalon.svg)" height="40" alt="Katalon Studio" title="Katalon Studio" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman" title="Postman" />
 </p>
