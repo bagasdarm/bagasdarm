@@ -22,13 +22,19 @@
     <img src="https://raw.githubusercontent.com/bagasdarm/bagasdarm/104927c1b303f9b3804a4ff6a3c4fc195bad02a4/Katalon.svg" height="40" alt="Katalon Studio" title="Katalon Studio" />
     &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman" title="Postman" />
+        &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="Postman" title="Postman" />
   </p>
 
-  <h4>Management & Collaboration</h4>
+  <h4>Databases Management & Collaboration</h4>
   <p>
     <img src="https://cdn.simpleicons.org/notion/a6a6a6" height="40" alt="Notion" title="Notion" />
     &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="Trello" title="Trello" />
+        &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/DBeaver/382923" height="40" alt="DBeaver" title="DBeaver" />
+            &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/PostgreSQL/4169E1" height="40"/>
   </p>
 
   <h4>Version Control</h4>
