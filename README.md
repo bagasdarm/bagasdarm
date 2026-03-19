@@ -11,20 +11,31 @@
 
 <p>Currently, I am actively building an automation testing portfolio to explore various test scenarios on dummy websites and APIs.</p>
 
-<p>The tech stack and tools I regularly use include <b>Katalon Studio</b> for automation testing, <b>Postman</b> for API testing, <b>Notion</b> and <b>Trello</b> for test management and collaboration, as well as <b>Git</b> and <b>GitHub</b> for version control.</p>
-
 <p>My current focus is designing and executing UI and API automation scripts for various dummy projects, compiling neat documentation for test cases, test scenarios, and bug reports, and learning best practices in continuous integration for QA.</p>
 
 <hr>
 
-<h3>Tools and Technologies</h3>
+<h3>Skills & Tools</h3>
+
+<h4>Testing Tools</h4>
 <p>
-  <img src="https://img.shields.io/badge/Katalon%20Studio-86C840?style=for-the-badge&logoColor=white" alt="Katalon Studio">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://cdn.simpleicons.org/katalon/86C840" height="40" alt="Katalon Studio" title="Katalon Studio" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman" title="Postman" />
+</p>
+
+<h4>Management & Collaboration</h4>
+<p>
+  <img src="https://cdn.simpleicons.org/notion/a6a6a6" height="40" alt="Notion" title="Notion" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="Trello" title="Trello" />
+</p>
+
+<h4>Version Control</h4>
+<p>
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" title="Git" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/a6a6a6" height="40" alt="GitHub" title="GitHub" />
 </p>
 
 <hr>
