@@ -1,20 +1,19 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/bagasdarm/bagasdarm/ee95300c14c8d497a1454138e8178b4b8df8b711/Linkedin%20Header%20SQA.jpg" alt="QA Portfolio Banner" width="100%">
-  
   <br><br>
-  
   <h1>Hi there, I am Bagas Ari Darmawan</h1>
   <h3>Software Quality Assurance | QA Tester / Engineer | Automation and Manual Testing Enthusiast</h3>
-
   <br>
-</div?
-  <p>I am a Software Quality Assurance professional focused on comprehensive software testing to ensure product quality, functionality, and reliability. I have experience in understanding complex business flows and testing various system modules, including Budget Management Systems and Learning Management Systems.</p>
+</div>
 
-  <p>Currently, I am actively building an automation testing portfolio to explore various test scenarios on dummy websites and APIs.</p>
+<p>I am a Software Quality Assurance professional focused on comprehensive software testing to ensure product quality, functionality, and reliability. I have experience in understanding complex business flows and testing various system modules, including Budget Management Systems and Learning Management Systems.</p>
 
-  <p>My current focus is designing and executing UI and API automation scripts for various dummy projects, compiling neat documentation for test cases, test scenarios, and bug reports, and learning best practices in continuous integration for QA.</p>
+<p>Currently, I am actively building an automation testing portfolio to explore various test scenarios on dummy websites and APIs.</p>
 
-  <hr>
+<p>My current focus is designing and executing UI and API automation scripts for various dummy projects, compiling neat documentation for test cases, test scenarios, and bug reports, and learning best practices in continuous integration for QA.</p>
+
+<hr>
+
 <div align="center">
   <h3>Skills & Tools</h3>
 
@@ -38,7 +37,6 @@
     &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/github/a6a6a6" height="40" alt="GitHub" title="GitHub" />
   </p>
-  </div>
 
   <hr>
 
