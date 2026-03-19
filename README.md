@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <img src="https://raw.githubusercontent.com/bagasdarm/bagasdarm/ee95300c14c8d497a1454138e8178b4b8df8b711/Linkedin%20Header%20SQA.jpg" alt="QA Portfolio Banner" width="100%">
   
   <br><br>
@@ -15,7 +15,7 @@
   <p>My current focus is designing and executing UI and API automation scripts for various dummy projects, compiling neat documentation for test cases, test scenarios, and bug reports, and learning best practices in continuous integration for QA.</p>
 
   <hr>
-
+<div align="center">
   <h3>Skills & Tools</h3>
 
   <h4>Testing Tools</h4>
@@ -38,6 +38,7 @@
     &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/github/a6a6a6" height="40" alt="GitHub" title="GitHub" />
   </p>
+  </div>
 
   <hr>
 
