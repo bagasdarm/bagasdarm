@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I am Bagas Ari Darmawan</h1>
-  <h3>Software Quality Assurance | Automation and Manual Testing Enthusiast</h3>
+  <h3>Software Quality Assurance | QA Tester | Automation and Manual Testing Enthusiast</h3>
 </div>
 
 <br>
