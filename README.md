@@ -1,16 +1,23 @@
-Hi there, I am Bagas Ari Darmawan
+<div align="center">
+  <h1>Hi there, I am Bagas Ari Darmawan</h1>
+  <h3>Software Quality Assurance | Automation and Manual Testing Enthusiast</h3>
+</div>
 
-Software Quality Assurance, Automation and Manual Testing Enthusiast
+<br>
 
-I am a Software Quality Assurance professional focused on comprehensive software testing to ensure product quality, functionality, and reliability. I have experience in understanding complex business flows and testing various system modules, including Budget Management Systems and Learning Management Systems.
+<p>I am a Software Quality Assurance professional focused on comprehensive software testing to ensure product quality, functionality, and reliability. I have experience in understanding complex business flows and testing various system modules, including Budget Management Systems and Learning Management Systems.</p>
 
-Currently, I am actively building an automation testing portfolio to explore various test scenarios on dummy websites and APIs.
+<p>Currently, I am actively building an automation testing portfolio to explore various test scenarios on dummy websites and APIs.</p>
 
-The tech stack and tools I regularly use include Katalon Studio for automation testing, Postman for API testing, Notion and Trello for test management and collaboration, as well as Git and GitHub for version control.
+<p>The tech stack and tools I regularly use include <b>Katalon Studio</b> for automation testing, <b>Postman</b> for API testing, <b>Notion</b> and <b>Trello</b> for test management and collaboration, as well as <b>Git</b> and <b>GitHub</b> for version control.</p>
 
-My current focus is designing and executing UI and API automation scripts for various dummy projects, compiling neat documentation for test cases, test scenarios, and bug reports, and learning best practices in continuous integration for QA.
+<p>My current focus is designing and executing UI and API automation scripts for various dummy projects, compiling neat documentation for test cases, test scenarios, and bug reports, and learning best practices in continuous integration for QA.</p>
 
-Let's connect!
-LinkedIn: https://www.linkedin.com/in/bagasdarm/
-Email: bagasdarm@gmail.com
-Portfolio: This GitHub Profile
+<hr>
+
+<h3>Let's Connect!</h3>
+<p>
+  <a href="https://www.linkedin.com/in/bagasdarm/">LinkedIn</a> | 
+  <a href="mailto:bagasdarm@gmail.com">Email</a> | 
+  <a href="https://github.com/bagasdarm">This GitHub Profile</a>
+</p>
