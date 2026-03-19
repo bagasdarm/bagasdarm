@@ -55,8 +55,6 @@
     <img src="https://cdn.simpleicons.org/PostgreSQL/4169E1" height="40"/>
                 &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/Discord/5865F2" height="40"/>
-                    &nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/Discord/5865F2" height="40"/>
   </p>
 
   <h4>Version Control & CI/CD</h4>
