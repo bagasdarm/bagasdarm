@@ -36,7 +36,8 @@
     <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" title="Git" />
     &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/github/a6a6a6" height="40" alt="GitHub" title="GitHub" />
-        <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="40" alt="GitHub" title="GitHub" />
+        &nbsp;&nbsp;&nbsp;
+    img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="40" alt="GitHub" title="GitHub" />
   </p>
 
   <hr>
