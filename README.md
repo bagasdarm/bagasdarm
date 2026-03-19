@@ -28,7 +28,7 @@
 
   <h4>Databases Management & Collaboration</h4>
   <p>
-    <img src="https://cdn.simpleicons.org/notion/a6a6a6" height="40" alt="Notion" title="Notion" />
+    <img src="https://cdn.simpleicons.org/notion/ffffff" height="40" alt="Notion" title="Notion" />
     &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="Trello" title="Trello" />
         &nbsp;&nbsp;&nbsp;
