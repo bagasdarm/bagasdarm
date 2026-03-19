@@ -27,7 +27,7 @@
             &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/jira/0052CC" height="40"/>
                 &nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/jira/0052CC" height="40"/>
+    <img src="https://cdn.simpleicons.org/appium/EE376D" height="40"/>
                     &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/apachejmeter/D22128" height="40"/>
                         &nbsp;&nbsp;&nbsp;
