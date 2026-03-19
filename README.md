@@ -6,11 +6,11 @@
   <br>
 </div>
 
-<p>I am a Software Quality Assurance professional focused on comprehensive software testing to ensure product quality, functionality, and reliability. I have experience in understanding complex business flows and testing various system modules, including Budget Management Systems and Learning Management Systems.</p>
+<p>I am an Informatics Engineering graduate with a strong passion for Software Quality Assurance[cite: 3]. Currently, I am working as an SQA Engineer Intern, where I handle both manual and automation testing to ensure web applications function smoothly[cite: 8, 10, 12]. I genuinely enjoy the systematic process of identifying defects, creating detailed test scenarios, and verifying fixes alongside development teams[cite: 5, 11, 14].</p>
 
-<p>Currently, I am actively building an automation testing portfolio to explore various test scenarios on dummy websites and APIs.</p>
+<p>Because my professional work involves confidential internal projects, I use this GitHub space as a personal playground to build and showcase my automation testing portfolio. Here, I explore various test scenarios using dummy websites and public APIs to continuously sharpen my technical skills.</p>
 
-<p>My current focus is designing and executing UI and API automation scripts for various dummy projects, compiling neat documentation for test cases, test scenarios, and bug reports, and learning best practices in continuous integration for QA.</p>
+<p>My main focus right now is designing efficient UI and API automation scripts, writing clean and structured documentation for test cases and bug reports, and deepening my practical knowledge of tools like Katalon Studio and Postman[cite: 11, 14, 50].</p>
 
 <hr>
 
