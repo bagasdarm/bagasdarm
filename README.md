@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <img src="https://raw.githubusercontent.com/bagasdarm/bagasdarm/ee95300c14c8d497a1454138e8178b4b8df8b711/Linkedin%20Header%20SQA.jpg" alt="QA Portfolio Banner" width="100%">
   
   <br><br>
@@ -7,7 +7,7 @@
   <h3>Software Quality Assurance | QA Tester / Engineer | Automation and Manual Testing Enthusiast</h3>
 
   <br>
-
+</div?
   <p>I am a Software Quality Assurance professional focused on comprehensive software testing to ensure product quality, functionality, and reliability. I have experience in understanding complex business flows and testing various system modules, including Budget Management Systems and Learning Management Systems.</p>
 
   <p>Currently, I am actively building an automation testing portfolio to explore various test scenarios on dummy websites and APIs.</p>
