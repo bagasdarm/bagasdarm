@@ -35,8 +35,8 @@
     <img src="https://cdn.simpleicons.org/testrail/65C179" height="40"/>
     &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/k6/7D64FF" height="40"/>
-        <!-- &nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/testrail/65C179" height="40"/> -->
+        &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/apachegroovy/4298B8" height="40"/>
         <!-- &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/testrail/65C179" height="40"/> -->
         <!-- &nbsp;&nbsp;&nbsp;
