@@ -37,12 +37,6 @@
     <img src="https://cdn.simpleicons.org/k6/7D64FF" height="40"/>
         &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/apachegroovy/4298B8" height="40"/>
-        <!-- &nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/testrail/65C179" height="40"/> -->
-        <!-- &nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/testrail/65C179" height="40"/> -->
-        <!-- &nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/testrail/65C179" height="40"/> -->
   </p>
 
   <h4>Databases Management & Collaboration</h4>
@@ -64,15 +58,34 @@
     &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/github/a6a6a6" height="40" alt="GitHub" title="GitHub" />
     &nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="40" alt="GitHub" title="GitHub" />
+    <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="40" alt="GitLab" title="GitLab" />
   </p>
 
   <hr>
 
   <h3>Let's Connect!</h3>
+  
   <p>
-    <a href="https://www.linkedin.com/in/bagasdarm/">LinkedIn</a> | 
-    <a href="mailto:bagasdarm@gmail.com">Email</a> | 
-    <a href="https://github.com/bagasdarm">This GitHub Profile</a>
+    <a href="https://www.linkedin.com/in/bagasdarm/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:bagasdarm@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/bagasdarm" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
   </p>
-</div>
+  <p>
+    <a href="https://instagram.com/USERNAME_IG_KAMU" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://www.threads.net/@USERNAME_THREADS_KAMU" target="_blank">
+      <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
+    </a>
+    <a href="https://letterboxd.com/USERNAME_LETTERBOXD_KAMU/" target="_blank">
+      <img src="https://img.shields.io/badge/Letterboxd-00D700?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd" />
+    </a>
+  </p>
+  
+  </div>
