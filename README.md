@@ -77,13 +77,13 @@
     </a>
   </p>
   <p>
-    <a href="https://instagram.com/USERNAME_IG_KAMU" target="_blank">
+    <a href="https://instagram.com/bagasdarm" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="https://www.threads.net/@USERNAME_THREADS_KAMU" target="_blank">
+    <a href="https://www.threads.net/@bagasdarm" target="_blank">
       <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
     </a>
-    <a href="https://letterboxd.com/USERNAME_LETTERBOXD_KAMU/" target="_blank">
+    <a href="https://letterboxd.com/bagasdarm/" target="_blank">
       <img src="https://img.shields.io/badge/Letterboxd-00D700?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd" />
     </a>
   </p>
