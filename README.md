@@ -3,11 +3,11 @@
   <br>
   <h1>Hi there, I am Bagas Ari Darmawan</h1>
   <br>
-  <h3>Software Quality Assurance | QA Tester | Automation and Manual Testing Engineer</h3>
+  <h3>Software Quality Assurance | QA Tester | Automation & Manual Testing Engineer</h3>
   <br>
 </div>
 
-<p>I am an Informatics Engineering graduate with a strong passion for Software Quality Assurance. Currently, I am working as an SQA Engineer Intern, where I handle both manual and automation testing to ensure web applications function smoothly. I genuinely enjoy the systematic process of identifying defects, creating detailed test scenarios, and verifying fixes alongside development teams.</p>
+<p>I am an Informatics Engineering graduate with a strong passion for Software Quality Assurance. Currently, I am working as an SQA(Software Qualityu Assurance) Engineer Intern (Part of MagangHub Kemnaker 2025 Batch II), where I handle both manual and automation testing to ensure web applications function smoothly. I genuinely enjoy the systematic process of identifying defects & bugs, creating detailed test scenarios, and verifying fixes alongside development teams.</p>
 
 <p>Because my professional work involves confidential internal projects, I use this GitHub space as a personal playground to build and showcase my automation testing portfolio. Here, I explore various test scenarios using dummy websites and public APIs to continuously sharpen my technical skills.</p>
 
